@@ -18,7 +18,7 @@ https://phalcon.xyz/tx/bsc/0x7ff1364c3b3b296b411965339ed956da5d17058f3164425ce80
 
 当前forge版本可以复现，将下列代码复制到Counter.t.sol里边即可
 
-forge test -vvvv --fork-url <your own RPC> --fork-block-number 26982057
+forge test -vvvv --fork-url [your own RPC] --fork-block-number 26982057
 
 ```solidity
 // SPDX-License-Identifier: MIT

@@ -30,7 +30,7 @@ https://twitter.com/SlowMist_Team/status/1644936375924584449
 
 当前forge版本可以复现，将下列代码复制到Counter.t.sol里边即可
 
-forge test -vvvv --fork-url <your own RPC> --fork-block-number 17006100
+forge test -vvvv --fork-url [your own RPC] --fork-block-number 17006100
 
 ```solidity
 // SPDX-License-Identifier: MIT

@@ -34,7 +34,7 @@ https://phalcon.xyz/tx/eth/0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900
 
 当前forge版本可以复现，将下列代码复制到Counter.t.sol里边即可
 
-forge test -vvvv --fork-url <your own RPC> --fork-block-number 12000163
+forge test -vvvv --fork-url [your own RPC] --fork-block-number 12000163
 
 ```solidity
 pragma solidity ^0.8.13;
